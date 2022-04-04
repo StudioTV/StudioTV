@@ -5,7 +5,7 @@ In my free time I am doing videos about Artificial Intelligence, my goal is to m
 On my git, you will find all of my projects explained in my videos.
 
 # **Some stats**
-<p align="center">
+<p>
     <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=StudioTV&show_icons=true&title_color=999&text_color=9f9f9f&bg_color=00000000&hide_border=true"></a>
 </p>
 
