@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey, I am StudioTV !
 
-<!--
-**StudioTV/StudioTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is StudioTV, I am the owner of the Youtube Channel [StudioTV](https://www.youtube.com/c/StudioTV). I am an engineer in Artificial Intelligence. 
+In my free time I am doing videos about Artificial Intelligence, my goal is to make it easy and accessible for everyone.
+On my git, you will find all of my projects explained in my videos.
 
-Here are some ideas to get you started:
+# **Some stats**
+<p align="center">
+    <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=StudioTV&show_icons=true&title_color=999&text_color=9f9f9f&bg_color=00000000&hide_border=true"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **Need help using one of my project?**
+Feel free to open issues on the GitHub page of my projects, also you can try to contact me (check Contact below).
+
+# **Contact**
+There is multiple ways to contact me !
+
+<a href="https://discord.gg/ZgBa2US"><img src="https://img.shields.io/static/v1?label=DISCORD&message=Studiotv&color=blueviolet&style=for-the-badge"></a><br><br>
+<a href="https://twitter.com/YTStudioTV"><img src="https://img.shields.io/static/v1?label=TWITTER&message=YTStudiotv&color=blue&style=for-the-badge"></a><br><br>
+<a href="mailto: studiotvpro@gmail.com"><img src="https://img.shields.io/static/v1?label=mail&message=studiotvpro@gmail.com&color=blue&style=for-the-badge"></a><br><br>
