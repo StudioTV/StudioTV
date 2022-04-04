@@ -18,4 +18,4 @@ There is multiple ways to contact me !
 
 <a href="https://discord.gg/ZgBa2US"><img src="https://img.shields.io/static/v1?label=DISCORD&message=Studiotv&color=blueviolet&style=for-the-badge"></a><br><br>
 <a href="https://twitter.com/YTStudioTV"><img src="https://img.shields.io/static/v1?label=TWITTER&message=YTStudiotv&color=blue&style=for-the-badge"></a><br><br>
-<a href="mailto: studiotvpro@gmail.com"><img src="https://img.shields.io/static/v1?label=mail&message=studiotvpro@gmail.com&color=grey&style=for-the-badge"></a><br><br>
+<a href="mailto: studiotvpro@gmail.com"><img src="https://img.shields.io/static/v1?label=mail&message=studiotvpro@gmail.com&color=white&style=for-the-badge"></a><br><br>
