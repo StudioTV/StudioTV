@@ -1,8 +1,9 @@
 # Hey, I am StudioTV !
 
-My name is StudioTV, I am the owner of the Youtube Channel [StudioTV](https://www.youtube.com/c/StudioTV). I am an engineer in Artificial Intelligence. 
-In my free time I am doing videos about Artificial Intelligence, my goal is to make it easy and accessible for everyone.
-On my git, you will find all of my projects explained in my videos.
+My name is StudioTV, I am the owner of the Youtube Channel [StudioTV](https://www.youtube.com/c/StudioTV).  
+I am an engineer in Artificial Intelligence.  
+In my free time I am doing videos about Artificial Intelligence, my goal is to make it easy and accessible for everyone.  
+On my git, you will find all of my projects explained in my videos.  
 
 # **Some stats**
 <p>
